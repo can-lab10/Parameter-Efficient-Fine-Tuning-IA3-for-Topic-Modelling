@@ -7,7 +7,9 @@ Fine-tune an open-source Large Language Model (LLM) such as Llama2 to perform to
 There is no dataset provided. Find a relevant dataset related to this task.
 
 ## Submission
-Submit a well-organized codebase along with a README documenting the setup, key findings, and challenges.  
+Please clone this repository and upload it to a new private repo.
+Implement a well-organized codebase along with a README documenting the setup, key findings, and challenges.  
+Add me (@flowni) to the repo for submitting it.
 You have one week to complete the assignment. ⏰
 
 ## Evaluation Criteria
