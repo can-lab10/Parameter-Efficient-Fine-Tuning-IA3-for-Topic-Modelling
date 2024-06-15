@@ -1,0 +1,713 @@
+input,output
+Aircraft Accidents in Brazil,"brazil
+aviation"
+Ratings of 12 Oreo Varieties from 5 tasters,"food and drink
+product"
+gene expression profiling data from tumor and matched normal samples (29 each),healthcare
+"Points, Assists, Height, Weight and other personal details and stats",sports
+"Weekly case reports for polio, smallpox, and other diseases in the United States","healthcare
+diseases"
+"Positive, negative and swear words in Thai","languages
+asia
+linguistics"
+"Air quality monitoring data from northern Taiwan, 2015",environment
+Japan's international trade by country and type of good,"business
+finance"
+Can you predict sport performance from the weather?,"running
+sports
+weather"
+A Collection of Road Variables in New York for the Taxi Playground Challenge,"road transport
+taxi services"
+Track the players of this popular online game,"games and toys
+video games"
+Explore and analyze this year's NIPS papers,"writing
+linguistics
+artificial intelligence"
+Pollution in the U.S. since 2000,"environment
+pollution"
+Arabic (Modern Standard) and Egyptian Arabic dialect comparable documents,"languages
+linguistics"
+Detections of hail storm cells based on NEXRAD radar data during 2015,climate
+Comparing What's on Twitter and Reddit to What's Happening in the World,"news agencies
+internet"
+Find out hidden meaning behind current affairs,"popular culture
+storytelling
+politics
++ 2 more..."
+Can you recognize if it is a seizure or not ?,"neuroscience
+health"
+All the competitors and performances,"popular culture
+music"
+Task from NASA Hackathon,"space
+energy"
+"Stack Overflow questions and tags, without text included","linguistics
+internet
+programming languages"
+Co-authoring collaboration network of e-print server Arxiv Astro Physics,"social sciences
+networks"
+Daily Snapshot of Each Operational Hard Drive in 2016,"computer science
+electrical components"
+As summarized and found in data.gov.in,india
+Data about the earthquakes that hit Italy between August and November 2016.,earth sciences
+Unit level survey data collected from 9 🇮🇳 states.,"india
+public health
+health"
+Data on Traffic and Pedestrian Stops by Police in many states,"government agencies
+crime
+law"
+"Patient records collected from North East of Andhra Pradesh, India","healthcare
+health sciences
+health
+medicine"
+LCS Summer 2017 Fantasy Stats,video games
+"500 hours of speech recordings, with speaker demographics","languages
+acoustics
+linguistics"
+Geographical database covering all countries with over eleven million placenames,geography
+Perceived level of political corruption for every country in the world,"crime
+politics"
+Sub-division wise monthly data for 115 years from 1901-2015.,"india
+weather"
+10000 records of press release from 2003.,"india
+government
+linguistics"
+Forecasting the 2016 NCAA Basketball Tournament,"basketball
+artificial intelligence"
+ENADE and ENEM scores combined,"brazil
+education"
+Death metal bands and albums,music
+"120K RSSI samples to determine X,Y,Z coordinates in a two-level building",internet
+Safe to eat or deadly poison?,food and drink
+Great competition revisited,"education
+telecommunications"
+Cheltenham Township Police Department incident dataset,crime
+"Interest rates, economic growth, unemployment, and inflation data","history
+finance"
+Predict if a project will get successfully funded or not using labeled data,"business
+finance"
+What makes a game a good game?,board games
+16 years of categorized headlines focusing on India,"news agencies
+cities
+historiography"
+Predict user gender based on Twitter profile information,"gender
+twitter
+internet"
+Bicycle Trip Data from Seattle's Cycle Share System,"cycling
+road transport"
+From suspicious nodules to diagnosis,healthcare
+80 Datasets published by FiveThirtyEight,news agencies
+Handwriting Verification,classification
+Greetings /fit/izens! Do you even lift?,"running
+weight training
+healthcare
+nutrition"
+Election results and candidate data.,"brazil
+government
+politics"
+Most Authentic Count of Suicide Bombing Attacks in Pakistan (1995-2016),crime
+"90,000 public comments on FCC proceeding 17-108, ""Restoring Internet Freedom""","internet
+telecommunications"
+"Detailed Patent Litigation Data on 74k Cases, 1963-2015",law
+"Content section from over 160,000 news and blog articles","news agencies
+linguistics
+internet"
+Data from the popular Brazilian Fantasy Football (2014 to 2017) ⚽️,"association football
+brazil
+sports"
+How much does cocaine cost on the internet?,"crime
+illegal drugs
+economics
+internet"
+Salary of Public Worker in Brazil,"government agencies
+brazil
+finance
++ 2 more..."
+Exchange data from 2009 to 2011,finance
+A post-election survey about populism in the US and the EU-28,"politics
+international relations"
+"Factors that impact a Pokemon's CP, combat, defense and other variables",video games
+"Data about Dog Owners in Zurich, Switzerland","animals
+sociology"
+VGG-19 Pre-trained Model for PyTorch,"machine learning
+pre-trained model"
+Marijuana strain dataset,"healthcare
+botany"
+Retail transaction and promotion response data,business
+"Image data and metadata for 360,000 favicons scraped from popular websites","internet
+image data"
+The EPA's Toxic Substances Control Act Chemical Substance Inventory,"science and culture
+chemistry
+health
+chemical engineering"
+A database of how a range of solar flares are viewed by different satellites.,"time series
+astronomy
+physics
+space"
+"23,000 Customer Reviews and Ratings","business
+internet
+nlp
+text mining"
+Snapshot of Tony Pino's Melbourne Housing Dataset,"australia
+housing
+real estate
+demographics"
+Dataset from Netflix's competition to improve their reccommendation algorithm,"film
+artificial intelligence"
+Data on Traffic and Pedestrian Stops by Police in Washington,"crime
+law"
+Daily statistics for trending YouTube videos,"languages
+popular culture
+statistics
++ 2 more..."
+"Prices of top cryptocurrencies including Bitcoin, Ethereum, Ripple, Bitcoin cash","history
+finance"
+"2016 Kabaddi World Cup, the third standard-style Kabaddi World Cup dataset",sports
+Occurrences involving aircrafts from the last 10 years in Brazil,"brazil
+aviation"
+"A list of over 7,000 breweries and brew pubs in the USA.","databases
+food and drink
+business"
+Example text files for five popular text encodings,"writing
+languages
+linguistics
++ 2 more..."
+Predict small molecules' activity targeting protein kinase,healthcare
+What state has the most library books per capita?,libraries
+This data set will contain the results from all the 2016-2017 kitefoil races.,"oceans
+sports"
+Can you predict the life or death of a horse?,"veterinary medicine
+animals"
+A database of alien bird distributions worldwide,animals
+Full text of the State of the Union address between 1989 and 2017,"presidents
+politics
+linguistics"
+Publicly launched YC companies funded from summer 2005 to summer 2016,"business
+finance"
+Corpus of 2.6 million words with ratings from urban dictionary,"linguistics
+internet"
+All purchase orders over $5000 from 2012-2015,"government agencies
+finance"
+Visualizing over 4 million home-to-work commutes in the United States,transport
+Traffic Violations in USA,demographics
+"15k+ players, 50+ Attributes per player from the latest EA Sports Fifa 17","video games
+association football"
+US EPA data on release of toxic chemicals for 1987-2016,"government agencies
+pollution"
+ATP tournament results from 2000 to 2017,"tennis
+sports"
+Which airline should you fly on to avoid significant delays?,aviation
+DenseNet-161 Pre-trained Model for PyTorch,"machine learning
+pre-trained model"
+Sentiment Polarity Lexicons (Positive vs. Negative),"languages
+linguistics"
+Global GDP & Government Expenditures since 1946,economics
+Explore all 802 Pokemon from the newly released 7th Generation,"games and toys
+video games"
+Coursera NeuroHacking in R course datasets,healthcare
+Discover How a Community Leverages Facebook,internet
+How did population demographics impact the Brexit vote?,"politics
+demographics"
+Plain text extracted from journal articles,"languages
+healthcare
+linguistics"
+Historical daily prices and volumes of all U.S. stocks and ETFs,"business
+finance
+economics
+artificial intelligence"
+"Applications for first registrations, leases, dealings, searches, etc","housing
+finance
+government"
+A normalized naming system for clinical drugs,"linguistics
+medicine"
+Explore and visualize the Salem witchcraft trials,"united states
+history
+crime
+violence"
+https://www.kaggle.com/calmdownkarm/ufcdataset,sports
+A day's harvest of election headlines from Nepal's news homepages,"politics
+linguistics
+internet"
+Can you save lives through predictive modeling?,healthcare
+What bird species has caused the most damage to airplanes?,"animals
+aviation"
+Coral Records from NOAA’s Deep-Sea Coral Research and Technology Program,"science and culture
+fishing
+oceans
++ 2 more..."
+Box Scores and Standings with advanced calculations applied,"basketball
+sports"
+Spending on political ads by independent (non-candidate) groups,"finance
+politics"
+"463k Public Complaints, 2013-17",government agencies
+Major Financial Indicators from Developing and Advanced Economies,finance
+growth of investment after some years?,"finance
+information technology"
+Two-years hourly-recorded data of solar power generation and electricity demand,"time series
+renewable energy"
+"Analyze ~500,000 food reviews from Amazon","food and drink
+linguistics
+internet"
+Misconduct and punishment of US Flight Marshals,"united states
+crime
+transport"
+S&P Index Historical Data from Yahoo finance,finance
+What divides and unites the 28 countries in the European Union?,"politics
+international relations"
+"Dataset of 19,000 online job posts from 2004 to 2015","employment
+linguistics"
+"This includes price, region, instance size, and OS for AWS Spot Instances","business
+computing"
+Analyze how travelers in February 2015 expressed their feelings on Twitter,"linguistics
+twitter
+internet
+aviation"
+What contaminant has caused the most hospitalizations and fatalities?,"food and drink
+public health"
+News headlines published over a period of 14 years.,"news agencies
+historiography
+linguistics
+sociology"
+Predict clicks and handle imbalanced data,"business
+artificial intelligence"
+Wikipedia's list of world's highest mountains,mountains
+WTA matches from 2000 to 2016,tennis
+"200,000 malicious-account tweets captured by NBC","russia
+politics
+international relations
++ 2 more..."
+Contains folder wise arranged images for 5 diseases.,"healthcare
+diseases
+medicine"
+Daily Weather Summaries from 1940-1945,"weather
+history
+war"
+Xception Pre-trained Model for Keras,"machine learning
+pre-trained model"
+Korean Stock Kospi Prices,"finance
+economics"
+"Homelessness in the United States, 2007 to 2016","communities
+united states
+sociology"
+"As Tom Cruise Gets Older, His On-Screen Love Interests Stay the Same Age","film
+gender
+demographics"
+RiskAssessmentByNumericalFeatures,finance
+"Chinese fonts dataset, which can be used for Chinese text OCR","writing
+linguistics"
+"OpenStreetMap Files (osm, geojson, pbf)",geography
+Fluorescence signal from the circadian regulation region of the brain,neuroscience
+Typing patterns for keystroke authentication,computer security
+First-hand Accounts of Slaves from the United States,"united states
+north america
+slaves
++ 2 more..."
+Homicides between 1980 and 2014,"history
+crime"
+(Almost) all Pokémon stats until generation 6: 21 variables per Pokémon,video games
+Public complaints made about Comcast internet and television service.,"business
+internet
+networks"
+Details on 1441 Allied Runs,"military
+war"
+All registered elevators in New York City,cities
+This is a set of images of graffiti signatures from Malasaña's streets.,"visual arts
+photography"
+Details of federal cases in the United States against corporations since 2001,"business
+crime"
+"By Year, Event, and Location",crime
+A history of crime statistics from 2004 to 2015 per province and station,crime
+"A Corpus of 100,000 Crowdsourced Happy Moments","personal life
+emotion
+linguistics"
+Data on more than 800 Pokemon from all 7 Generations.,"popular culture
+video games"
+Movement of ~742k Scientists,demographics
+Hacker News posts from the past 12 months (including # of votes and comments),"news agencies
+internet"
+"Location, date/time, and outcome for every rocket launch","space
+business"
+10000 exoplanet candidates examined by the Kepler Space Observatory,"astronomy
+space"
+"Data collected from Taxi, Cabify and Uber trips, using EC Taximeter","telecommunications
+road transport"
+Which makes and models have the highest city and highway MPG?,vehicles
+"Bug triaging...contains details bug prioritization or assign, defect analysis.",programming
+"A list of 2,000 reviews of beer, liquor, and wine sold online.","databases
+food and drink
+alcohol
++ 2 more..."
+Over 5000 Regular Season Games,"american football
+sports"
+Reports of unidentified flying object reports in the last century,space
+Carbon emissions from electicity production,"environment
+energy"
+Default Payments of Credit Card Clients in Taiwan from 2005,finance
+Consolidated set of all registered crimes from crimemaps.dc.gov,crime
+Mileage per gallon performances of various cars,automobiles
+"Combined raw crime data for 2012 through 2016 in Los Angeles, California",crime
+Test patterns for gaining intuition of hyperparmeters in machine learning,"artificial intelligence
+programming"
+students records extracted from the freeCodeCamp database in 2015,"education
+internet"
+S&P 500 companies historical prices with fundamental data,finance
+How do we search for food? Google search interest can reveal key food trends over the years.,"journalism
+food and drink
+internet"
+Dataset containing all US Zip Codes with 10 Valid US Addresses,"united states
+north america
+real estate
+demographics"
+Psychological profile of Donald Trump based on his spoken language,"languages
+presidents
+politics
++ 2 more..."
+Salaries paid to Chicago employees,"cities
+money"
+"Added for the ""New York City Taxi Trip Duration"" challenge",weather
+104 years of monthly CPI data,economics
+Geo-coded Inventory of Anophelines in the Sub-Saharan Africa: 1898-2016,"healthcare
+public health"
+16972 Rows of Underground Electronic Music Reviews,"journalism
+music"
+Global Smart City Survey for Recommendation Systems,"learning
+artificial intelligence
+mobile web"
+"More than 400,000 reviews from Amazon's unlocked mobile phone category","business
+internet
+telecommunications"
+"Cause, magnitude, and intensity of every tsunami since 2000 BC",oceans
+"Worldwide food\feed production and distribution, 1961-2013","animals
+agriculture"
+"Ten Years of Crime Data, by OpenDataPhilly",crime
+Analyze the ongoing spread of this infectious disease,"brazil
+healthcare
+epidemiology"
+Classifying autistic patients based upon the screening results.,healthcare
+Information on individual trademark applications,"government agencies
+united states
+product"
+Price Time Series Between 965 and 1983,"history
+economics"
+Simpson Diversity Index to quantify racial diversity of US counties,demographics
+Over 3 million tweets and replies from the biggest brands on Twitter,"business
+communication
+linguistics
+twitter"
+detecting number of pills by audio.,medicine
+Data from Google trends showing who searches for what and where,"journalism
+healthcare
+diseases
++ 2 more..."
+100 records on Starwood hotel inventory,"hotels
+internet"
+"Shapefile of the 12 administrative okrugs, subdivided into 146 raions","russia
+geography
+politics"
+480k summoner ids sorted by tier from October 2016. Game data from 130k players.,video games
+Naturally-occurring Persian (Farsi) spelling mistakes,linguistics
+Human Activity Recognition,"classics
+food and drink"
+Evaluate the effects of chopsticks length on food-serving performance,"food and drink
+psychometrics"
+ResNet-50 Pre-trained Model for PyTorch,"machine learning
+pre-trained model"
+Land use and farming inputs,agriculture
+Can you use NLP to answer these questions?,"languages
+linguistics
+artificial intelligence"
+"29,000+ tweets about the 2017 Academy Awards","film
+linguistics
+internet"
+"A dataset of 15,377 slave sales from 1856 - 1861","slaves
+history"
+Explore real industrial data and help manufacturing plants to be more efficient,"time series
+industry
+manufacturing
+regression analysis"
+List of 50 most promising startups for 2017 in India according to Economic Times,"business
+product"
+Total sea ice extent from 1978 to present,"environment
+climate"
+"A list of over 18,000 restaurants that serve vegetarian or vegan food in the US.","databases
+food and drink
+business"
+Us luxury car sales data pre and during economic crises time,"business
+economics
+marketing"
+577 matches up to season 9,cricket
+Data from 2008-2015 on fishing vessels either from the UK or landing in the UK,"government agencies
+fishing
+business"
+List of different crime and arrest done in 2014 and 2015,"humans
+crime
+politics
++ 2 more..."
+Property attributes of 1.5 million Latin American listings,home
+In-Depth Look at StarCraft II Replays,video games
+"Life, death and reign of Roman emperors","life
+death
+politicians
++ 2 more..."
+Temperature at climate station at Svalbard (Norway),"climate
+weather
+learning"
+1500 bestseller books on Paytm,"books
+internet"
+VGG-19 Pre-trained model with batch normalization for PyTorch,"machine learning
+pre-trained model"
+Global indicators from 1960-2010,economics
+Thirty nine thousand bets from thirty one tipsters,horse racing
+A collection of the most popular and recent quotes on Goodreads,"literature
+linguistics"
+Investigating the UK honours,politics
+Tracking Email Status in a Multi Channel Marketing Platform,"business
+product
+marketing
+internet"
+Analyze gender gap and differences in industry's incomes,"gender
+employment
+income"
+"A list of 19,000+ businesses offering ""burrito"" or ""taco"" menu items in the U.S.","databases
+food and drink
+business"
+"20,000 products on Flipkart",internet
+Identification of markers for human emotions in breath,"film
+time series
+atmospheric sciences
++ 2 more..."
+classify mobile price range,"business
+classification"
+Full transcript of Comey's Testimony to Senate Intelligence Committee,"law
+politics"
+ACT Breakdowns by Composite Score,"mathematics education
+universe"
+Data from the recently announced 7 exoplanet system,space
+~90k FDA Recorded Medical Events,"government agencies
+food and drink
+healthcare
++ 2 more..."
+FDA Adverse Event Reporting System (FAERS) Data,"government agencies
+pharmaceutical industry
+pharmaceuticals policy"
+"Statistic of 59000 players, lets analyze it!",video games
+English Bible Translations Dataset for Text Mining and NLP,"faith and traditions
+linguistics"
+Rates & Volumes for 1998-2017,"finance
+banking"
+Helpful dataset for New York Taxi Playground,taxi services
+The longest running contaminant monitoring program in U.S. coastal waters,"ecology
+pollution"
+Every pub in the UK and its address,"alcohol
+europe"
+"<""xss'asdasdasdasdasd",internet
+For variable selection and causal inference. Challenging for classification,"healthcare
+neuroscience"
+A Seed Corpus for the Human Language Project,"culture and humanities
+languages
+linguistics"
+"25k+ matches, players & teams attributes for European Professional Football","association football
+europe"
+Where did Chase Bank customers deposit the most money last year?,finance
+natural language processing,"languages
+linguistics"
+An Emoji Similarity Baseline Dataset with 508 Emoji Pairs and Similarity Ratings,"popular culture
+linguistics
+internet"
+A collection of broad leaved dock images for weed sprayer,"agriculture
+agronomy
+surveillance
+image data"
+81323 Artists on Spotify,"music
+musicians"
+"Date, time, and location of every eclipse in five thousand years","astronomy
+space"
+Bolide impacts by the kiloton since 1988.,"government agencies
+space"
+"Country, City pair & Airline wise from 2015Q1 to 2017Q1.","india
+aviation"
+USA market in units 2008-2016,"business
+economics
+marketing"
+2017 March Madness forecasts from FiveThirtyEight,basketball
+All .nyc domain names registered with the City of New York,"cities
+internet"
+26 million turns from natural two-person dialogues,"languages
+linguistics
+computing and society"
+ResNet-50 Pre-trained Model for Keras,"machine learning
+pre-trained model"
+A gr8t dataset of wrods used on Urban Dictionary,"languages
+popular culture
+literature
+linguistics"
+"Fundamental data for 12,129 companies based on XBRL",finance
+"About games, nintendo 3ds, xbox one, ps4 and other","video games
+internet"
+"An open data survey of 20,000+ people who are new to software development","employment
+computing and society
+programming"
+En Part-Of-Speech tags PLAIN class,linguistics
+Image dataset of 20 characters from The Simpsons,"popular culture
+image data
+object detection"
+Collection of SMS messages tagged as spam or legitimate,"languages
+linguistics
+human-computer interaction"
+"Museum name, type, location, review, rating, rank, etc.",museums
+"Competitive matches, 2015 to 2018",video games
+Contains the full text of each patent grant issued weekly for 10/11/2016,law
+The records saved from a Wastewater infrastructure in a Greek Island,bodies of water
+Factors contributing to traffic violations over the last few years,"crime
+road transport"
+Survey of team's program eligibility and retention by year and institution,"sports
+education"
+Find out F-Society's favorite lingo,"entertainment
+computers"
+Calculating population weighted mean of geospatial data of each Indian state,"india
+geography"
+Canadian government justice system survey results,"government agencies
+crime
+politics"
+Urban night city chat messages,"cities
+linguistics
+telecommunications"
+The largest supply contracts awarded by the World Bank,"supply chain
+international relations"
+Brooklyn New York housing and GIS data,housing
+Global Air Pollution Measurements,"pollution
+bigquery"
+Where are the most pedestrians struck by vehicles in New York City?,"walking
+road transport"
+"National and state-level surveillance data, 1997 to 2015","healthcare
+epidemiology
+health"
+"Details from over 50,000 ranked games of LoL","video games
+internet"
+Information on 76 Creole and Pidgin Languages,"languages
+linguistics"
+"Data on hockey players, teams, and coaches from 1909 to 2011",ice hockey
+Small dataset of 151 original Pokemon,"animation
+entertainment"
+An attempt to predict driver's behaviour,"mechanical engineering
+automobiles"
+"3,801,733 company details",business
+Vehicle and Driving Data,"india
+business
+internet
++ 2 more..."
+Analyze tweets on the first 2016 GOP Presidential Debate,"politics
+internet"
+"Air temperature, atmospheric pressure, humidity, etc recorded over seven years","climate
+weather"
+"20,000 doctor and lawyer profiles","healthcare
+relationships
+law
+internet"
+Visualizing Airfields in the Last Frontier,aviation
+Which types of projects are the most popular on GitHub?,"internet
+programming languages
+programming"
+"New Reading Comprehension Dataset on 100,000+ Question-Answer Pairs","languages
+linguistics"
+Digit Recognition by MNIST contains training and testing data,"weight training
+digital media
+machine learning
++ 2 more..."
+Build a model to predict the salaries of NHL players based on player data,"sports
+money"
+Fight-by-fight list of all UFC fights from 2013,sports
+Main crops production and yield in ARG,"agriculture
+data cleaning"
+Monthly counts of crimes committed since 2000,"europe
+crime"
+Three decades of movies,"film
+entertainment"
+Program for International Student Assessment mean scores (Pisa) from 2015,education
+Teaching Dataset for NashNetX Presentation (PyTN),"social groups
+networks
+tutorial
+network analysis"
+Dataset of bluetooth beacons readings indoor,networks
+"An up-to-date dataset of nearly 40,000 international football results","association football
+countries
+sports
++ 2 more..."
+"Text-to-speech counterparts for the ""Speech Commands Data Set v0.01""","languages
+acoustics
+communication
+human-computer interaction"
+Reported crimes in Sweden from 1950 to 2015,crime
+Historic H15 Release Data from the Federal Reserve,"finance
+government
+banking"
+Can you correctly identify glass type?,"chemistry
+artificial intelligence"
+Daily OHLCV stock data from the Philippines,"time series
+business
+money
+regression analysis"
+USDA data about crop nutrients in the U.S.,"food and drink
+science and culture
+united states
++ 2 more..."
+"Word vectors trained on Wikipedia 2017, UMBC webbase corpus, and statmt.org","machine learning
+pre-trained model"
+Data on Traffic and Pedestrian Stops by Police in South Carolina,"government agencies
+crime
+law
+violence"
+The World Bank's global population estimates,"countries
+populated places
+demographics"
+Data is a collection of board game information from Board Game Geek,board games
+"Basic NFL statistics, career statistics, and game logs",american football
+Classify simple audio commands,"languages
+acoustics
+communication
+human-computer interaction"
+"Sex-disaggregated and gender-specific data on demographics, education, etc.","gender
+education
+demographics"
+Who visited Brazil between 1989 and 2015?,"brazil
+leisure"
+Collection of Presidential Election Polls from 2015-2016,"news agencies
+politics"
+All data published by the US Energy Information Administration,"government agencies
+energy"
+Image dataset for fine-grain classification,"animals
+image data"
+Data of 131k arrests made by the Baltimore Police Department,crime
+"Data on baseball players, teams, and games from 1871 to 2015",baseball
+A dataset with 60 fruits and 38409 images,"food and drink
+image data
+multiclass classification"
+"+32,000 records, with grandularity on a neighborhood scale (mean, median, Stdev)","geography
+income
+finance
++ 2 more..."
+How did presidential candidates spend their campaign funds?,"finance
+politics"
+Crime and law enforcement employment data from 2015,"crime
+law"
+Compare key metrics for over 200 cities,cities
+Historical Stock prices for all companies listed in Australia,"historiography
+finance"
+Updated till December 2017,finance
+Why do 30% of patients miss their scheduled appointments?,"brazil
+healthcare
+public health"
+SF Health Department records for restaurant inspections,food and drink
+Data compiled by the global shark attack file,oceans
+Journalist Deaths from 1992-2016,"news agencies
+journalism
+death
+crime"
+Characteristics of all discovered extrasolar planets,"astronomy
+space"
+1.4 million responses from 2009 onwards,crime
+Citizen science covering the 2017 eclipse,"astronomy
+bigquery"
+A granular history of baseball,"baseball
+history"
+"Every flight tracked by the National Civil Aviation Agency in Brazil, 2016-17.","brazil
+aviation"
