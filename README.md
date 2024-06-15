@@ -42,14 +42,14 @@ The train.py script is used to fine-tune the specified LLM on the provided train
   --max_input_length 1024 \
   --max_target_length 128
 ```
---model_name: The name of the model to be fine-tuned.
---data_path: The path to the training data CSV file.
---output_dir: The directory to save the fine-tuned model.
---epochs: The number of training epochs.
---batch_size: The batch size for training.
---learning_rate: The learning rate for training.
---max_input_length: The maximum length of input sequences.
---max_target_length: The maximum length of target sequences.
+--model_name: The name of the model to be fine-tuned. \
+--data_path: The path to the training data CSV file. \
+--output_dir: The directory to save the fine-tuned model. \
+--epochs: The number of training epochs. \
+--batch_size: The batch size for training. \
+--learning_rate: The learning rate for training. \
+--max_input_length: The maximum length of input sequences. \
+--max_target_length: The maximum length of target sequences. \
 
 
 ### Evaluating fine-tuned LLMs
@@ -64,9 +64,9 @@ The eval.py script is used to evaluate the fine-tuned model on a separate evalua
   --output_path eval_results/evaluation_results.xlsx
 ```
 
---model_name: The name of the model to be evaluated.
---adapter_dir: The directory of the adapter checkpoints from the fine-tuning process.
---data_path: The path to the evaluation data CSV file.
---output_path: The path to save the evaluation results as an Excel file.
---max_input_length: The maximum length of input sequences.
---max_target_length: The maximum length of target sequences.
+--model_name: The name of the model to be evaluated. \
+--adapter_dir: The directory of the adapter checkpoints from the fine-tuning process. \
+--data_path: The path to the evaluation data CSV file. \
+--output_path: The path to save the evaluation results as an Excel file. \
+--max_input_length: The maximum length of input sequences. \
+--max_target_length: The maximum length of target sequences. \
