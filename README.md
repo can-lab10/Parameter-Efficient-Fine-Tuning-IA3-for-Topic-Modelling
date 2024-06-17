@@ -3,7 +3,7 @@
 In this readme file you will find instructions for setting up the repository and executing the code.
 
 ## Project Overview
-This project aims to use IA3 method to fine-tune Sequence to Sequence Large Language Models (encoder decoder architecture), to perform topic modeling on a collection of text paragraphs. The objective is to allow the fine-tuned models to dynamically generate meaningful topics for given texts.
+This project aims to use IA3 method to parameter efficiently fine-tune Sequence to Sequence Large Language Models (encoder decoder architecture), to perform topic modeling on a collection of text paragraphs. The objective is to allow the fine-tuned models to dynamically generate meaningful topics for given texts.
 
 ## Installation
 1. Clone the repository using git.
