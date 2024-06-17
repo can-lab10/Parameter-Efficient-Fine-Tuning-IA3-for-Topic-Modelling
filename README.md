@@ -1,4 +1,4 @@
-# Topic Modeling with IA3 fine-tuning Language Models 
+# Topic Modeling with IA3 fine-tuning LLMs
 
 In this readme file you will find instructions for setting up the repository and executing the code.
 
