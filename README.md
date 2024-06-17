@@ -3,7 +3,7 @@
 In this readme file you will find instructions for setting up the repository and executing the code.
 
 ## Project Overview
-This project aims to use IA3 method to parameter efficiently fine-tune Sequence to Sequence Large Language Models (encoder decoder architecture), to perform topic modeling on a collection of text paragraphs. The objective is to allow the fine-tuned models to dynamically generate meaningful topics for given texts.
+This project aims to use IA3 method to parameter efficiently fine-tune Sequence-to-Sequence Large Language Models (encoder-decoder architecture), to perform topic modeling on a collection of text paragraphs. The objective is to allow the fine-tuned models to dynamically generate meaningful topics for given texts.
 
 ## Installation
 1. Clone the repository using git.
@@ -13,14 +13,21 @@ Python 3.9.7 is used for the experiments.
 
 ## File Descriptions
 
-data: Stores training and evaluation data.
-eval_results: Contains evaluation results.
-train_results: Contains training results.
-utils.py: Contains utility functions.
-train.py: Script to IA3 fine-tune the LLM on the training data.
-eval.py: Script to evaluate the fine-tuned LLM on the evaluation data.
-requirements.txt: Lists the Python dependencies required for the project.
-Dockerfile: Defines the Docker image setup for the project.
+data: Stores training and evaluation data
+
+eval_results: Contains evaluation results
+
+train_results: Contains training results
+
+utils.py: Contains utility functions
+
+train.py: Script to IA3 fine-tune the LLM on the training data
+
+eval.py: Script to evaluate the fine-tuned LLM on the evaluation data
+
+requirements.txt: Lists the Python dependencies required for the project
+
+Dockerfile: Defines the Docker image setup for the project
 
 
 ## Running the training and evaluation
@@ -70,3 +77,17 @@ The eval.py script is used to evaluate the fine-tuned model on a separate evalua
 --output_path: The path to save the evaluation results as an Excel file. \
 --max_input_length: The maximum length of input sequences. \
 --max_target_length: The maximum length of target sequences. 
+
+### Key Findings
+
+Improved Topic Generation: Fine-tuning the LLM using IA3 significantly improved the relevance and coherence of the generated topics compared to the pre-trained model. 
+
+Scalability: The fine-tuned model demonstrated the ability to scale and handle larger datasets efficiently, maintaining performance and accuracy.
+
+### Challenges
+
+Data Preprocessing: Handling and preprocessing the text data, including stopword removal and tokenization, was important for model performance but also time-consuming. 
+
+Resource Constraints: Fine-tuning LLMs is resource-intensive, requiring substantial computational power and memory. 
+
+Hyperparameter Tuning: Finding the optimal hyperparameters for fine-tuning, such as learning rate, required some experimentation and validation.
