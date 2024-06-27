@@ -66,7 +66,7 @@ The eval.py script is used to evaluate the fine-tuned model on a separate evalua
 ```shell
   python eval.py \
   --model_name google-t5/t5-small \
-  --adapter_dir training_results/adapter_checkpoints_20240615_0006 \
+  --adapter_dir train_results/adapter_checkpoints_20240615_0006 \
   --data_path data/eval_test.csv \
   --output_path eval_results/evaluation_results.xlsx
 ```
