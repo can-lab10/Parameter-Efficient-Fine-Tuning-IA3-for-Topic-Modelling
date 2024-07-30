@@ -1,4 +1,4 @@
-# Topic Modeling with IA3 fine-tuning LLMs
+# Parameter Efficient Fine-Tuning (IA3) for Topic Modelling
 
 In this readme file you will find instructions for setting up the repository and executing the code.
 
